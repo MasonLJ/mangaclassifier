@@ -1,6 +1,6 @@
 # Manga Classifier
 
-Manga Classifier is python machine learing application using pytorch. The main basis for classifying the manga is a convolutional neural network.
+Manga Classifier is python machine learning application using pytorch. The main basis for classifying the manga is a convolutional neural network.
 After the model was trained a website was created to deploy the model in order to check to see how pytorch deploys models.
 
 ## Usage
